@@ -1,5 +1,5 @@
 # Test Proyect Spring Boot Mysql
-###Application.properties
+### Application.properties
 ```
 spring.datasource.url=jdbc:mysql://localhost:3306/db_springboot?serverTimezone=America/Bogota
 spring.datasource.username=root
